@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517106289159",
+    "project_id": "auth-crud-events-android-app",
+    "storage_bucket": "auth-crud-events-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517106289159:android:0da09fce1a107effbc38a2",
+        "android_client_info": {
+          "package_name": "com.persistent.auth_crud_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_I5p6R3AxqNXikJlxfUWSr_1E9K5jFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

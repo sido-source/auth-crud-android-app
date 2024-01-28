@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Auth-crud-app</string>
+    <string name="bottom_navi_home">Home</string>
+    <string name="bottom_navi_map">Map</string>
+    <string name="bottom_navi_notifications">Notifications</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="new_username">New username</string>
+    <string name="new_password">New Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login_here">Already a User ? Login Here</string>
+    <string name="log_out">Log out</string>
+</resources>
